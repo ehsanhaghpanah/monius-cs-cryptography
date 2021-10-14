@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>http://monius.net/licenses/</licenseUrl>
+		<projectUrl>http://monius.net/</projectUrl>
+		<iconUrl>http://monius.net/icons/</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>$description$</description>
+		<releaseNotes>monius-cryptography-release</releaseNotes>
+		<copyright>Copyright © moniüs (monius.net), 2016</copyright>
+		<tags>Cryptography</tags>
+	</metadata>
+</package>
